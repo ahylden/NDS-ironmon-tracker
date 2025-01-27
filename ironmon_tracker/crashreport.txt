@@ -1,0 +1,1 @@
+crashedOccurred:false|gameName:HeartGoldSoulSilver Kaizo Auto Randomized|romHash:411D525D450F673F71688976AECA32641879668E
